@@ -1,4 +1,3 @@
-import Box from './components/basics/Box'
 import { BlogPosts } from 'app/components/posts'
 
 

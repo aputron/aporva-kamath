@@ -1,6 +1,6 @@
 {
-  "/blog/page": "app/blog/page.js",
-  "/blog/[slug]/page": "app/blog/[slug]/page.js",
+  "/page": "app/page.js",
   "/_not-found/page": "app/_not-found/page.js",
-  "/page": "app/page.js"
+  "/projects/data_collection/page": "app/projects/data_collection/page.js",
+  "/projects/mutant_gen/page": "app/projects/mutant_gen/page.js"
 }

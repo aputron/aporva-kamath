@@ -572,9 +572,6 @@
   .static\/ {
     position: static;
   }
-  .static\/chunks\/app\/blog\/\[slug\]\/page {
-    position: static;
-  }
   .static\/webpack {
     position: static;
   }
@@ -853,9 +850,6 @@
     --tw-numeric-spacing: tabular-nums;
     font-variant-numeric: var(--tw-ordinal,) var(--tw-slashed-zero,) var(--tw-numeric-figure,) var(--tw-numeric-spacing,) var(--tw-numeric-fraction,);
   }
-  .tracking-normal {
-    letter-spacing: var(--letter-spacing-normal, 0em);
-  }
   .tracking-tight {
     letter-spacing: var(--letter-spacing-tight, -0.025em);
   }
@@ -864,6 +858,9 @@
   }
   .text-black {
     color: var(--color-black, #000);
+  }
+  .text-gray-400 {
+    color: var(--color-gray-400, #9ca3af);
   }
   .text-gray-500 {
     color: var(--color-gray-500, #6b7280);
@@ -1483,12 +1480,12 @@ table {
   \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 @font-face {
 font-family: 'GeistSans';
-src: url(/nextjs-github-pages/_next/static/media/ec1a1eae803b668e-s.p.woff2) format('woff2');
+src: url(/_next/static/media/ec1a1eae803b668e-s.p.woff2) format('woff2');
 font-display: swap;
 font-weight: 100 900;
 }@font-face {font-family: 'GeistSans Fallback';src: local("Arial");ascent-override: 90.59%;descent-override: 21.66%;line-gap-override: 9.85%;size-adjust: 101.56%
-}.__className_f7515d {font-family: 'GeistSans', 'GeistSans Fallback'
-}.__variable_f7515d {--font-geist-sans: 'GeistSans', 'GeistSans Fallback'
+}.__className_ac79ff {font-family: 'GeistSans', 'GeistSans Fallback'
+}.__variable_ac79ff {--font-geist-sans: 'GeistSans', 'GeistSans Fallback'
 }
 
 /*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
@@ -1496,10 +1493,10 @@ font-weight: 100 900;
   \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 @font-face {
 font-family: 'GeistMono';
-src: url(/nextjs-github-pages/_next/static/media/f980ec13b5b5e554.p.woff2) format('woff2');
+src: url(/_next/static/media/f980ec13b5b5e554.p.woff2) format('woff2');
 font-display: swap;
 font-weight: 100 900;
-}.__className_8bfff3 {font-family: 'GeistMono', ui-monospace, SFMono-Regular, Roboto Mono, Menlo, Monaco, Liberation Mono, DejaVu Sans Mono, Courier New, monospace
-}.__variable_8bfff3 {--font-geist-mono: 'GeistMono', ui-monospace, SFMono-Regular, Roboto Mono, Menlo, Monaco, Liberation Mono, DejaVu Sans Mono, Courier New, monospace
+}.__className_8a4d12 {font-family: 'GeistMono', ui-monospace, SFMono-Regular, Roboto Mono, Menlo, Monaco, Liberation Mono, DejaVu Sans Mono, Courier New, monospace
+}.__variable_8a4d12 {--font-geist-mono: 'GeistMono', ui-monospace, SFMono-Regular, Roboto Mono, Menlo, Monaco, Liberation Mono, DejaVu Sans Mono, Courier New, monospace
 }
 

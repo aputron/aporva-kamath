@@ -148,7 +148,7 @@
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	(() => {
-/******/ 		__webpack_require__.h = () => ("d845dfb509aabaf3")
+/******/ 		__webpack_require__.h = () => ("bfc96894b3d64f3c")
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/global */
@@ -660,7 +660,7 @@
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
 /******/ 	(() => {
-/******/ 		__webpack_require__.p = "/nextjs-github-pages/_next/";
+/******/ 		__webpack_require__.p = "/_next/";
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/react refresh */

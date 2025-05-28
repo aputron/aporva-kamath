@@ -28,23 +28,17 @@ export default function Page() {
 
       {/* Experience Project Panel */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        <Link href="/projects/data_collection">
-          <a className="lowercase text-black block bg-white rounded-lg shadow-md p-6 border border-gray-200 hover:shadow-lg transition-shadow duration-200"
-            target="_blank" rel="noopener noreferrer">
-            <h3 className="text-l font-semibold mb-2">Data Collection for AI-based Protein Engineering</h3>
-          </a>
+        <Link href="/projects/data_collection" className="lowercase text-black block bg-white rounded-lg shadow-md p-6 border border-gray-200 hover:shadow-lg transition-shadow duration-200"
+         rel="noopener noreferrer">
+            <h3 className="text-l font-semibold mb-2">high-throughput AI-assisted protein engineering (HiAPE)</h3>
         </Link>  
-        <Link href="/projects/mutant_gen">
-          <a className="lowercase text-black block bg-white rounded-lg shadow-md p-6 border border-gray-200 hover:shadow-lg transition-shadow duration-200"
-            target="_blank" rel="noopener noreferrer">
+        <Link href="/projects/mutant_gen" className="lowercase text-black block bg-white rounded-lg shadow-md p-6 border border-gray-200 hover:shadow-lg transition-shadow duration-200"
+            rel="noopener noreferrer">
             <h3 className="text-l font-semibold mb-2">Biofoundry-based Production and Multiplexed Identification of Mutants</h3>
-          </a>
         </Link>
-        <Link href="/projects/dsembler">
-          <a className="lowercase text-black block bg-white rounded-lg shadow-md p-6 border border-gray-200 hover:shadow-lg transition-shadow duration-200"
-            target="_blank" rel="noopener noreferrer">
+        <Link href="/projects/dsembler" className="lowercase text-black block bg-white rounded-lg shadow-md p-6 border border-gray-200 hover:shadow-lg transition-shadow duration-200"
+            rel="noopener noreferrer">
             <h3 className="text-l font-semibold mb-2">Long-DNA Assembly Design with Dsembler</h3>
-          </a>
         </Link>
       </div>
 

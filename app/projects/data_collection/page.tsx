@@ -13,7 +13,7 @@ import FacsGraphIcon from 'app/components/icons/FacsGraph'
 
 // text-gray-700 dark:text-gray-400
 
-export const DataCollectionPage: React.FC = () => {
+export const DataCollectionPage {
   return (
     <section>
       <h1 className="text-3xl font-semibold lowercase mb-4">

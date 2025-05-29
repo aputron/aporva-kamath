@@ -2,7 +2,7 @@ export default function MutantGenerationPage() {
     return (
       <section>
         <h1 className="text-3xl font-bold lowercase mb-4">Biofoundry-based Production and Multiplexed Identification of Mutants</h1>
-        <p className="text-gray-400 lowercase mb-4">
+        <p className="text-gray-500 lowercase mb-4">
           Automated mutant production and identification using a biofoundry and long-read sequencing.
         </p>
         <p className="text-gray-700 lowercase">

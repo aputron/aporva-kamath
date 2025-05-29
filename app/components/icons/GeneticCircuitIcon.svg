@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="68.035629mm"
+   height="29.659737mm"
+   viewBox="0 0 68.035629 29.659737"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ArrowWide"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="13.001"
+       markerHeight="1.001"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="none">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="13.001"
+       markerHeight="1.001"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="none">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path1-7" />
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-33.167813,-9.2524011)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.757062;stroke-linecap:square;stroke-dasharray:none"
+       id="rect1"
+       width="67.278572"
+       height="28.902672"
+       x="33.546345"
+       y="9.6309319"
+       ry="14.451336" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.85;stroke-linecap:square;stroke-dasharray:none"
+       d="M 46.051078,29.365905 H 87.875244"
+       id="path2"
+       transform="matrix(0.17631434,0,0,1,32.46476,-4.5854431)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.85;stroke-linecap:square;stroke-dasharray:none"
+       d="M 46.051078,29.365905 H 87.875244"
+       id="path2-1"
+       transform="matrix(0.10854274,0,0,1,84.676776,-4.5854431)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.85;stroke-linecap:square;stroke-dasharray:none"
+       d="M 46.051078,29.365905 H 87.875244"
+       id="path2-9"
+       transform="matrix(0.32749714,0,0,1,47.112487,-4.5854431)" />
+    <path
+       id="rect2"
+       style="fill:none;stroke:#000000;stroke-width:0.764;stroke-linecap:square;stroke-dasharray:none"
+       d="m 51.849498,20.891913 -9.07e-4,7.77e-4 -3.824584,3.700964 3.7628,4.064942 10.199337,0.01005 V 20.89272 Z" />
+    <path
+       id="rect2-1"
+       style="fill:none;stroke:#000000;stroke-width:0.764;stroke-linecap:square;stroke-dasharray:none"
+       d="m 85.980222,28.669011 9.07e-4,-7.77e-4 3.824584,-3.700964 -3.7628,-4.064942 -10.199337,-0.01005 v 7.775926 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.434028;stroke-linecap:square;stroke-dasharray:none"
+       d="M 46.051078,29.365905 H 87.875244"
+       id="path2-2"
+       transform="matrix(0.09290313,0,0,1,37.075097,-8.8888456)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.428064;stroke-linecap:square;stroke-dasharray:none"
+       d="M 46.051078,29.365905 H 87.875244"
+       id="path2-4"
+       transform="matrix(0,-0.09550973,-1,0,72.57107,28.805504)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.434028;stroke-linecap:square;stroke-dasharray:none"
+       d="M 46.051078,29.365905 H 87.875244"
+       id="path2-2-8"
+       transform="matrix(0.09290313,0,0,1,85.788013,-8.7997687)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.428064;stroke-linecap:square;stroke-dasharray:none"
+       d="M 46.051078,29.365905 H 87.875244"
+       id="path2-4-2"
+       transform="matrix(0,-0.09550973,-1,0,121.28398,28.894581)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.434028;stroke-linecap:square;stroke-dasharray:none;marker-start:url(#ArrowWide)"
+       d="M 46.051078,29.365905 H 87.875244"
+       id="path2-2-4"
+       transform="matrix(0.09290313,0,0,1,59.962343,-8.7219628)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.428064;stroke-linecap:square;stroke-dasharray:none"
+       d="M 46.051078,29.365905 H 87.875244"
+       id="path2-4-8"
+       transform="matrix(0,-0.09550973,-1,0,97.322297,28.972386)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.434028;stroke-linecap:square;stroke-dasharray:none;marker-start:url(#ArrowWide-8)"
+       d="M 46.051078,29.365905 H 87.875244"
+       id="path2-2-4-9"
+       transform="matrix(-0.09290313,0,0,1,77.633727,-8.7984794)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.428064;stroke-linecap:square;stroke-dasharray:none"
+       d="M 46.051078,29.365905 H 87.875244"
+       id="path2-4-8-5"
+       transform="matrix(0,-0.09550973,1,0,40.273773,28.895869)" />
+  </g>
+</svg>

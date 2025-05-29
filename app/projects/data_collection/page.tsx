@@ -114,4 +114,4 @@ export default function DataCollectionPage() {
   )
 }
 
-export default DataCollectionPage;
+// export default DataCollectionPage;

@@ -13,7 +13,7 @@ const CollapsibleCard: React.FC<CollapsibleCardProps> = ({ title, icon, children
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <div className="max-w-2xl mx-auto my-6 border border-gray-300 rounded-lg shadow-md hover:bg-gray-900">
+    <div className="max-w-2xl mx-auto my-6 border border-gray-300 dark:border-gray-700 rounded-lg shadow-md hover:bg-gray-900">
       <button
         onClick={() => setIsOpen(!isOpen)}
         className="lowercase w-full px-6 py-4 flex justify-between 

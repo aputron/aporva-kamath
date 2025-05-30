@@ -16,7 +16,7 @@ const GeneticCircuitIcon: React.FC<CustomIconProps> = ({ className = 'w-12 h-12 
     <g transform="translate(-33.167813,-9.2524011)">
       <rect
         stroke="currentColor"
-        strokeWidth={0.50}
+        strokeWidth={1}
         x={33.55}
         y={9.63}
         width={67.28}

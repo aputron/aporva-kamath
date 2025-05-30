@@ -1,4 +1,6 @@
 {
+  "/projects/data_collection/page": "app/projects/data_collection/page.js",
   "/page": "app/page.js",
-  "/projects/data_collection/page": "app/projects/data_collection/page.js"
+  "/_not-found/page": "app/_not-found/page.js",
+  "/projects/mutant_gen/page": "app/projects/mutant_gen/page.js"
 }

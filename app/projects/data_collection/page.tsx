@@ -1,3 +1,5 @@
+'use client'
+
 import {
   InformationCircleIcon,
   ExclamationTriangleIcon,
@@ -32,7 +34,7 @@ function ArrowIcon() {
 
 // text-gray-700 dark:text-gray-400
 
-export const DataCollectionPage: React.FC = () => {
+export default function DataCollectionPage() {
   return (
     <section>
       <h1 className="text-3xl font-semibold lowercase mb-4">
@@ -196,4 +198,4 @@ export const DataCollectionPage: React.FC = () => {
   )
 }
 
-export default DataCollectionPage;
+// export default DataCollectionPage;

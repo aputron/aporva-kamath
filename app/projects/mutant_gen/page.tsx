@@ -1,3 +1,5 @@
+'use client'
+
 import {
     InformationCircleIcon,
     ExclamationTriangleIcon,
@@ -32,7 +34,7 @@ import {
   
   // text-gray-700 dark:text-gray-400
   
-  export const MutantGenerationPage: React.FC = () => {
+  export default function MutantGenerationPage() {
     return (
       <section>
         <h1 className="text-3xl font-semibold lowercase mb-4">
@@ -196,4 +198,4 @@ import {
     )
   }
   
-  export default MutantGenerationPage;
+  // export default MutantGenerationPage;

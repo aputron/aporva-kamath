@@ -1,4 +1,9 @@
+'use client'
+
+import { useState } from 'react'
 import Link from 'next/link'
+import { translateTextNodes, restoreTextNodes } from 'app/utils/translate'
+
 
 const navItems = {
   '/': {
@@ -16,6 +21,17 @@ const navItems = {
 }
 
 export function Navbar() {
+  const [translated, setTranslated] = useState(false)
+
+  const handleToggleTranslate = () => {
+    if (translated) {
+      restoreTextNodes(document.body)
+    } else {
+      translateTextNodes(document.body)
+    }
+    setTranslated(!translated)
+  }
+  
   return (
     <aside className="-ml-[8px] mb-8 tracking-tight">
       <div className="lg:sticky lg:top-20">
@@ -36,6 +52,12 @@ export function Navbar() {
               )
             })}
           </div>
+          <button
+            onClick={handleToggleTranslate}
+            className="fixed bottom-4 right-4 z-50 bg-blue-600 hover:bg-blue-700 text-white text-sm px-4 py-2 rounded-full shadow-lg transition"
+          >
+            {translated ? 'Show Original' : 'Translate Page'}
+          </button>
         </nav>
       </div>
     </aside>

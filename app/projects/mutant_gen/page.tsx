@@ -6,7 +6,8 @@ import {
     BeakerIcon,
     CheckCircleIcon,
     WrenchScrewdriverIcon,
-    ComputerDesktopIcon
+    ComputerDesktopIcon,
+    ArrowUpRightIcon
   } from '@heroicons/react/24/outline'
   import React from 'react';
   import CollapsibleCard from 'app/components/CollapsibleCard';
@@ -15,22 +16,6 @@ import {
   import NanoporeSeqIcon from 'app/components/icons/NanoporeSeq'
   import DataProcessingIcon from 'app/components/icons/DataProcessing';
   
-  function ArrowIcon() {
-    return (
-      <svg
-        width="12"
-        height="12"
-        viewBox="0 0 12 12"
-        fill="none"
-        xmlns="http://www.w3.org/2000/svg"
-      >
-        <path
-          d="M2.07102 11.3494L0.963068 10.2415L9.2017 1.98864H2.83807L2.85227 0.454545H11.8438V9.46023H10.2955L10.3097 3.09659L2.07102 11.3494Z"
-          fill="currentColor"
-        />
-      </svg>
-    )
-  }
   
   // text-gray-700 dark:text-gray-400
   
@@ -126,7 +111,7 @@ import {
       </div>
       <p className="flex items-center mt-5 font-semibold lowercase">
         <WrenchScrewdriverIcon className="h-6 w-6 mr-2 mt-1" />
-        Skills
+        Skills leveled-up
       </p>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 max-w-5xl mx-auto px-4 py-8 lowercase">
         <div className="p-6 border border-gray-300 dark:border-gray-700 rounded-lg shadow">
@@ -190,7 +175,7 @@ import {
         target="_blank"
         href="https://aputron.github.io/dissertation/chapters/data_coll.html"
       >
-        <ArrowIcon />
+        <ArrowUpRightIcon className="h-4 w-4" />
         <p className="lowercase text-sm ml-2 h-7 text-gray-600 dark:text-gray-400">Learn more</p>
       </a>
     </section>
